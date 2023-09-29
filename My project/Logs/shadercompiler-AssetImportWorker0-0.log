@@ -1,0 +1,9 @@
+Base path: '/Applications/Unity/Hub/Editor/2023.1.15f1/Unity.app/Contents', plugins path '/Applications/Unity/Hub/Editor/2023.1.15f1/PlaybackEngines'
+Cmd: initializeCompiler
+
+<<<<<<< HEAD
+Unhandled exception: Protocol error - failed to read magic number (error -2147483644, transferred 0/4)
+
+Quitting shader compiler process
+=======
+>>>>>>> 85c2b4c813f678b46966ee68cd8d6200f5e23c13
